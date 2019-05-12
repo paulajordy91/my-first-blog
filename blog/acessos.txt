@@ -1,0 +1,19 @@
+***** super usuario admin do blog
+
+paulajordy
+email: paulajordypf@gmail.com
+senha: P1a2u3l4a5!
+
+***** mysql
+usuario: root
+servirdo: localhost
+senha: Paula123
+
+***** git hub
+login: paulajordy91
+email: paulajordypf@gmail.com
+senha: P1a2u3l4a5!
+
+***** pythonanywhere
+login: paulajordy91
+senha: P1a2u3l4a5!
