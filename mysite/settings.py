@@ -88,8 +88,10 @@ DATABASES = {
        'NAME': 'dbMysite',
        'USER': 'root',
        'PASSWORD': 'Paula123',
-       'HOST': '127.0.0.1', # ou o IP do DB externo
-       'PORT': '3306',
+       #'HOST': '127.0.0.1', # ou o IP do DB externo
+       'HOST': '', # ou o IP do DB externo
+       #'PORT': '3306',
+       'PORT': '',
    }
 
 
